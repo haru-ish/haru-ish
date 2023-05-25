@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Haruhiko Ishizaki 🐨</h1>
-<h3 align="center">A Junior Fullstack Developer, Focused on Backend</h3>
+<h3 align="center">Junior Full-Stack Developer with a Focus on Back-End</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
